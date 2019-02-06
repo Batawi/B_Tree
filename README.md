@@ -3,7 +3,8 @@ One file contains nodes, pointers to children and pointers to records. Second fi
 
 At any time during the program operation operating memory (RAM) contains the number of nodes which won't exceed height of the tree.
 
-Use `make` for compile. `files` folder must be created or You can edit proper `#define`.
+Use `make` to compile. If you don't want to edit the proper `#define`, `files` folder must be created. Press `h` for help window to pop up.
+
 
 ![alt](https://github.com/Batawi/B_Tree/blob/master/btree.png)
 
